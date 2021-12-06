@@ -1,2 +1,3 @@
-# FlutterProject
-flutter_project
+# Animation Text
+How to create animation text in flutter?
+
