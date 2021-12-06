@@ -1,6 +1,6 @@
-# animation_text
+# Animation Text
 
-A new Flutter project.
+simple way to create animation without packages
 
 ## Getting Started
 
